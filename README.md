@@ -8,20 +8,13 @@ The analysis consists of a series of business-oriented SQL queries designed to a
 Dataset
 
 The project uses the Northwind database, a sample relational database containing information about:
+- Customers , Orders and Order Details , Products , Categories ,Suppliers , Employees , Shippers , Territories and Regions.
 
-Customers
-Orders and Order Details
-Products
-Categories
-Suppliers
-Employees
-Shippers
-Territories and Regions
 Business Questions & Analysis
-Customer Analysis
-Number of customers by country
-Number of customers by customer type
-Number of orders per customer
+- Customer Analysis ,
+- Number of customers by country ,
+- Number of customers by customer type ,
+- Number of orders per customer
 Top 5 customers by number of orders
 Top customers by total order amount
 Customers who have never placed an order
