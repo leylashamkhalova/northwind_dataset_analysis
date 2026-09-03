@@ -112,5 +112,5 @@ Northwind-SQL-Analysis/
 └── README.md
 
 Purpose
-
+ 
 The main goal of this project was to strengthen practical SQL skills by working with a relational dataset and solving business-oriented analytical questions rather than focusing only on isolated SQL syntax.
